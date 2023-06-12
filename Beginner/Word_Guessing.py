@@ -91,4 +91,5 @@ print('click s to start the game \n or \nclick e to exit the game')
 c = input()
 
 if c == 's':
+    print('If you want any hint, enter "hint" at any stage during the game')
     selection()
